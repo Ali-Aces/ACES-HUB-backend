@@ -14,10 +14,10 @@ const QRCodeScanSchema = new Schema({
     type: String,
     required: true,
   },
-  deviceId: {
-    type: String,
-    required: true,
-  },
+  // deviceId: {
+  //   type: String,
+  //   required: true,
+  // },
 
 });
 

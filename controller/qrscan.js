@@ -11,7 +11,7 @@ const storeQRCodeScan = async (req, res) => {
       sessionData,
       userId,
       email,
-      deviceId,
+      
       
     });
 
